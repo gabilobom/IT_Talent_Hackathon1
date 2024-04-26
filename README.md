@@ -1,0 +1,2 @@
+# IT_Talent_Hackathon1
+IT TALENT – TURMA DEVOPS 2024 – 1º HACKATHON
